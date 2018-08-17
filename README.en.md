@@ -1,16 +1,10 @@
----
-title: Next Theme Tutorial
-description: NexT is a high quality elegant Jekyll theme ported from Hexo Next. It is crafted from scratch, with love.
-categories:
- - tutorial
-tags:
----
+# NexT
 
-> NexT is a high quality elegant [Jekyll](https://jekyllrb.com) theme ported from [Hexo Next](https://github.com/iissnan/hexo-theme-next). It is crafted from scratch, with love.
+> NexT is a high quality elegant [Jekyll](https://jekyllrb.com) theme ported from [Hexo NexT](https://github.com/iissnan/hexo-theme-next). It is crafted from scratch, with love.
 
-<!-- more -->
 
-[Live Preview](http://simpleyyt.github.io/jekyll-theme-next/)
+ * [Live Preview](http://simpleyyt.github.io/jekyll-theme-next/)
+ * [Yitao's Blog](http://simpleyyt.com)
 
 ## Screenshots
 
@@ -44,7 +38,7 @@ Install `Bundler`:
 gem install bundler
 ```
 
-Clone Jacman theme:
+Clone NexT theme:
 
 ```sh
 git clone https://github.com/Simpleyyt/jekyll-theme-next.git
@@ -154,11 +148,11 @@ menu:
   archives: /archives
 
 # Favicon
-favicon: /favicon.ico
+favicon: /assets/favicon.ico
 
 # Avatar (put the image into next/source/images/)
 # can be any image format supported by web browsers (JPEG,PNG,GIF,SVG,..)
-avatar: /default_avatar.png
+avatar: /assets/default_avatar.png
 
 # Code highlight theme
 # available: normal | night | night eighties | night blue | night bright
