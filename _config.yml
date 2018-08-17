@@ -4,22 +4,22 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
-subtitle:
-description:
-author: John Doe
+title: Leroy's Blog
+subtitle: 我的个人博客
+description: Le vent se lève, il faut tenter de vivre.
+author: Leroy
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
 url:
 baseurl:
-permalink: pretty
+permalink: /:year/:month/:day/:title
 
 # Pagination
-paginate: 10
+paginate: 20
 #paginate_path: "/page:num/"
 #archive:
   #paginate: 10
@@ -76,10 +76,10 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: /assets/favicon.ico
+favicon: /assets/images/author.JPG
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "Jekyll, NexT,simpleyyt,Leroy"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -87,7 +87,7 @@ keywords: "Jekyll, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2018
 
 # icon between year and author @Footer
 authoricon: heart
@@ -213,8 +213,9 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
-  #LinkLabel: Link
+social:
+  Github: https://github.com/yonwind
+  知乎： https://www.zhihu.com
 
 
 # Social Links Icons
@@ -233,7 +234,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: /assets/images/author.JPG
 
 
 # Table Of Contents in the Sidebar
@@ -264,7 +265,7 @@ sidebar:
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
-  display: post
+  display: hide
   #display: always
   #display: hide
   #display: remove
@@ -381,7 +382,7 @@ han: false
 # Disqus
 disqus:
   enable: false
-  shortname:
+  shortname: Leroy
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
