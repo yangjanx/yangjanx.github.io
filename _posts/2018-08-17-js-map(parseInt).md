@@ -2,9 +2,8 @@
 title: 'JS map()方法和parseInt函数'
 layout: post
 tags:
-    - blog
-    - git
-category: Github
+    - js
+category: Javascript
 ---
 
 <!--more-->
