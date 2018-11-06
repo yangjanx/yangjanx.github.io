@@ -49,7 +49,15 @@
     </div>
     {% endunless %}
 
-
+    <script>
+      document.addEventListener('visibilitychange',function(){
+        if(document.visibilityState=='hidden'){
+          document.title = "出bug啦，快看！"
+        }else{
+          document.title = "Leroy's Blog"
+        }
+      })
+    </script>
     <!-- <script>
 
       !function () {
