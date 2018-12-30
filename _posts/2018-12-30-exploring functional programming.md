@@ -1,4 +1,4 @@
----
+﻿---
 title: '初探Javascript函数式编程'
 layout: post
 tags:
@@ -205,4 +205,9 @@ const factorial = (n, accum = 1) => {
 
 const value = factorial(10000);
 console.log(value);  //Infinity
-```
+``` 
+<br>
+<br>
+<br>
+
+**PS：** 好几个月没更新博客，心态有点浮躁。趁着元旦假期调整好心态，继续努力！
