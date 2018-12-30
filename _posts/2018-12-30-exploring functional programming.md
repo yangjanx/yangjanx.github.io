@@ -7,7 +7,7 @@ category: Javascript
 ---
 
 <!--more-->
-<!-- ![image](link) -->
+![image](https://raw.githubusercontent.com/yjoops/yjoops.github.io/master/assets/images/imgs/exploring-functional-programming.jpg)
 ## 函数式编程
 > 函数式编程(Functionnal programming)起源于lambda(λ)演算，这是一种在20世纪30年代开发的用于研究可计算性，“Entscheidungs”问题，函数定义、应用和递归的系统。在计算机科学中，函数式编程是一种编程范式：将计算视为数学函数并避免改变状态和数据。它是一种声明式编程范例，在函数代码中，函数输出的值仅取决于传递给函数的参数。
 
