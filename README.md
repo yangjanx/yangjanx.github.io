@@ -1,6 +1,6 @@
 # Ryan's Blog
 
-> 我的个人博客地址 <a href="https://yjianotw.github.io" target="_blank">https://yjianotw.github.io</a>
+> 我的个人博客地址 <a href="https://yangjanx.github.io" target="_blank">https://yangjanx.github.io</a>
 
 本博客采用NexT模板： 一款由 [Hexo NexT](https://github.com/iissnan/hexo-theme-next) 移植而来的 Jekyll 主题。
 
